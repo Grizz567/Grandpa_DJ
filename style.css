@@ -1,0 +1,28 @@
+.note
+{
+    font-size: 20px;
+    color: darkslategrey;
+}
+
+.song1
+{
+    float: left;
+}
+
+.song2
+{
+    float: right;
+}
+
+#song1
+{
+    font-size: 30px;
+    margin: 15px;
+}
+
+#song2
+{
+    font-size: 30px;
+    margin: 15px;
+}
+
